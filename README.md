@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm Fergal. I'm a .Net developer with over 10 years experience within the full .Net lifecycle. I currently work as a Lead Software Engineer at [Bede Gaming](https://www.bedegaming.com/)
+
+### Get in Touch
+---
+Twitter: [ObsidianDev](https://twitter.com/obsidiandev)
+
 
 <!--
 **ObsidianPhoenix/ObsidianPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
