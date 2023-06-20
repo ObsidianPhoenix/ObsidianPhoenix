@@ -1,4 +1,4 @@
-Hi, I'm Fergal. I'm a .Net developer with over 10 years experience within the full .Net lifecycle. I currently work as a Lead Software Engineer at [Bede Gaming](https://www.bedegaming.com/)
+Hi, I'm Fergal. I'm a .Net developer with over 10 years experience within the full .Net lifecycle. I currently work as a Team Lead at [Flagstone IM](https://www.flagstoneim.com/)
 
 ### Get in Touch
 ---
